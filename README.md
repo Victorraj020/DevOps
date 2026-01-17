@@ -1,4 +1,5 @@
-# DevOps CI/CD Demo Project
+# DevOps CI/CD 
+
 
 A production-ready Node.js application with a complete CI/CD pipeline using Docker, Nginx, and GitHub Actions.
 
